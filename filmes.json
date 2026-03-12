@@ -1,0 +1,7 @@
+[
+  { "titulo": "Oppenheimer", "genero": "Drama", "visto": true, "nota": 9 },
+  { "titulo": "Duna: Parte 2", "genero": "Sci-Fi", "visto": false, "nota": 9.5 },
+  { "titulo": "Pobres Criaturas", "genero": "Comedia", "visto": false, "nota": 8.5 },
+  { "titulo": "Batman", "genero": "Acao", "visto": true, "nota": 8.0 },
+  { "titulo": "Interestelar", "genero": "Sci-Fi", "visto": true, "nota": 10 }
+]
